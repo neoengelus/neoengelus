@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Things about me:
-- I'm currently learning Java and Python
-- I'm interested in backend development
-- I'm a casual gamer
-- I like music, anime and movies
+- I'm currently learning Java :coffee: and Python :snake: 
+- I'm interested in backend development :arrow_backward:
+- I'm a casual gamer :computer:
+- I like music :musical_note: 
+- I like anime :tv:
+- I like movies :cinema:
+- I love dogs :dog:
+- Hail :libra: :rat:
