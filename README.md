@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jorge but in the Multiverse you will find me as engelus or neoengelus
 
 <!--
 **neoengelus/neoengelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Things about me:
+- I'm currently learning Java and Python
+- I'm interested in backend development
+- I'm a casual gamer
+- I like music, anime and movies
